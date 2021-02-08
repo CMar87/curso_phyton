@@ -1,1 +1,1 @@
-# calculadora_pintura
+# projetos em Python
